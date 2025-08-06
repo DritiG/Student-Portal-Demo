@@ -31,7 +31,7 @@ Authentication: JWT (JSON Web Tokens) or OAuth for secure user authentication.
 
 ## Getting Started (Conceptual)
 To set up this project (once implemented), you would typically:
-Clone the repository: git clone https://github.com/your-username/student-portal-demo.git
+https://github.com/DritiG/Student-Portal-Demo
 Navigate to the project directory: cd student-portal-demo
 
 ## Install dependencies (e.g., npm install for Node.js/React projects).
